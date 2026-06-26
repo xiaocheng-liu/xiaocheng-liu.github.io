@@ -19,6 +19,30 @@ paginate: 5
 header_pages:
   - about.md
 
+# 社交媒体链接
+linkedin_username: 
+facebook_username: 
+instagram_username: 
+github_username: xiaocheng-liu
+
+# 显示设置
+show_excerpts: true
+paginate: 5
+
+# 评论系统
+comments:
+  provider: 
+  # disqus_shortname: your-disqus-shortname
+
+# Google Analytics
+# google_analytics: G-XXXXXXXXXX
+
+# 阅读时间估算
+reading_time: true
+
+# 文章目录
+toc: true
+
 # 评论系统（可选）
 # comments:
 #   provider: "disqus"
