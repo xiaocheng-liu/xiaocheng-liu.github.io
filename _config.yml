@@ -1,0 +1,33 @@
+title: 测试
+description: xiaocheng-liu 的个人博客
+author: xiaocheng-liu
+email: your-email@example.com
+baseurl: ""
+url: "https://xiaocheng-liu.github.io"
+twitter_username: xiaocheng-liu
+github_username:  xiaocheng-liu
+
+# 主题设置
+theme: minima
+
+# 构建设置
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+
+# 导航链接
+header_pages:
+  - about.md
+
+# 评论系统（可选）
+# comments:
+#   provider: "disqus"
+#   disqus_shortname: "your-disqus-shortname"
+
+# SEO 优化
+SEO:
+  name: 测试
+  description: xiaocheng-liu 的个人博客
+  author:
+    name: xiaocheng-liu
+    url: https://xiaocheng-liu.github.io

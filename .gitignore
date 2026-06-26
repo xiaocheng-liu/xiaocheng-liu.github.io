@@ -1,0 +1,19 @@
+# Jekyll 构建输出
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby 依赖
+vendor/
+Gemfile.lock
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
