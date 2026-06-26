@@ -23,6 +23,6 @@ permalink: /about/
 ## 联系方式
 
 - GitHub: [xiaocheng-liu](https://github.com/xiaocheng-liu)
-- Email: your-email@example.com
+- Email: xliu8865@gmail.com
 
 感谢访问！
